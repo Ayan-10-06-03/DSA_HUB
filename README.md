@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Stack
 |  |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
