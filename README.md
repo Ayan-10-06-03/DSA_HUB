@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
