@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0344-reverse-string) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
