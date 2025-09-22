@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0022-generate-parentheses) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
