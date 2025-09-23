@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0213-house-robber-ii) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3799-unique-3-digit-even-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
