@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0213-house-robber-ii) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
 | [2050-count-good-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2050-count-good-numbers) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0344-reverse-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Enumeration
