@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0213-house-robber-ii) |
+| [0792-binary-search](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0792-binary-search) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Sorting
