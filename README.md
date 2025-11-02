@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3799-unique-3-digit-even-numbers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
