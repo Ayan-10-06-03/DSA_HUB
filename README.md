@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Math
 |  |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 <!---LeetCode Topics End-->
