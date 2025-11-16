@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
