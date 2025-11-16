@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0092-reverse-linked-list-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
