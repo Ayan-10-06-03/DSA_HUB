@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
 | [2050-count-good-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
 |  |
