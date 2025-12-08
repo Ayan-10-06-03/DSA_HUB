@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
+| [1925-count-square-sum-triples](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1925-count-square-sum-triples) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
