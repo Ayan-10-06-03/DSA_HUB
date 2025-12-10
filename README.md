@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0344-reverse-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
