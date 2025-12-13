@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0792-binary-search](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Sorting
