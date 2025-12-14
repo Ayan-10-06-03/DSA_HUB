@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
 | [1925-count-square-sum-triples](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Stack
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1013-fibonacci-number) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Recursion
 |  |
 | ------- |
