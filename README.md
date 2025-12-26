@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
