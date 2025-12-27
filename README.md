@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2402-meeting-rooms-iii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2402-meeting-rooms-iii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2402-meeting-rooms-iii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2402-meeting-rooms-iii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Greedy
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2402-meeting-rooms-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## String Matching
 |  |
