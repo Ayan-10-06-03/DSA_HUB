@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0151-reverse-words-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1006-vowel-spellchecker) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0316-remove-duplicate-letters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0316-remove-duplicate-letters) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/1018-largest-perimeter-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Simulation
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/3005-count-elements-with-maximum-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ayan-10-06-03/DSA_HUB/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
